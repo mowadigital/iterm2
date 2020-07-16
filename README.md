@@ -23,6 +23,7 @@ vi ~/.zshrc
 Change ZSH_THEME="powerlevel10k/powerlevel10k"
 
 echo 'POWERLEVEL9K_MODE="nerdfont-complete"' >> ~/.zshrc
+
 echo 'source ~/.oh-my-zsh/custom/themes/powerlevel10k/powerlevel10k.zsh-theme' >> ~/.zshrc
 
 vi ~/.zshrc
